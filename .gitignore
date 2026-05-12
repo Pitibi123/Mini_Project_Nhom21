@@ -1,0 +1,7 @@
+build/
+bit_mat_bat_de
+*.exe
+*.o
+*.obj
+.vscode/
+.DS_Store
