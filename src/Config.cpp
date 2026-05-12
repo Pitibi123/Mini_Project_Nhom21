@@ -5,7 +5,7 @@ const int sohang = 10;
 const int socot = 10;
 const int sode = 4;
 const int soluottoida = 100;
-const int sotranmophong = 1000;
+const int sotranmophong = 10000;
 const int soluotstun = 3;
 
 const bool chon_de_ban_than_ngau_nhien = true;
